@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary System With Polymorphism", "Salary System With Polymorphism\Salary System With Polymorphism.csproj", "{B944CAE0-E630-4A42-855C-1F2EED51A200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B944CAE0-E630-4A42-855C-1F2EED51A200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B944CAE0-E630-4A42-855C-1F2EED51A200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B944CAE0-E630-4A42-855C-1F2EED51A200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B944CAE0-E630-4A42-855C-1F2EED51A200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED7936C-7E57-4CB0-8E06-0918F65F15C9}
+	EndGlobalSection
+EndGlobal
